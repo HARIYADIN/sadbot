@@ -54,7 +54,7 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 > git clone https://github.com/Ramlan666/sadbot
 > cd sadbot
 > bash install.sh
-> npm start
+> node index.js
 > Tinggal scan kode qr yeee...done
 ```
 
